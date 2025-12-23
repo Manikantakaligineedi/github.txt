@@ -1,0 +1,15 @@
+package hello;
+
+public class ram {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+// hi
+// iam doing java programming
+		int a=35000;
+		int b=4500;
+		int c=2000;
+		int A=(a+b+c);
+		System.out.println(A);
+	} 
+}
